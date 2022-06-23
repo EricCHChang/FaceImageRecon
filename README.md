@@ -2,6 +2,8 @@
 
 **Contact:** Chi-Hsun (Eric) Chang (ch.chang@mail.utoronto.ca)
 
+**Important Note:** These codes are for the use of academic research only. If you wish to use these codes in your research, please contact me first. 
+
 
 ## Preparation
 
